@@ -27,7 +27,7 @@ pour les rendres plus realiste sans etre trop gourmand en puissance
 ![Alt Text](https://media.discordapp.net/attachments/734721581191790664/850011709997056030/unknown.png?width=1187&height=670)
 ![Alt Text](https://media.discordapp.net/attachments/476100675668017155/777183760504324096/Capture_decran_2020-11-14_153546.jpg?width=1675&height=905)
 
-
+img[alt=Alt Text] { width: 200px; }
 
 
 
