@@ -17,8 +17,10 @@ Une autre Baliste mais une grosse qui est contrôlable par un joueur avec un piv
 	
 Il faudrait que les bases soient compliquées à raid. Par exemple une 10aines de boulets de catapulte pour tomber 1 mure.
 Les raids doivent être très coûteux
-![alt text](https://trello-attachments.s3.amazonaws.com/60c560db57eaf519b8ac2974/600x338/c1d0f608c235d0d7a5565f3aa724ca57/ezgif-2-16dfc1afdfdf.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+Rendu:
+les models sont définit par des textures (AO, Refection, albedo, normal map) 
+pour les rendres plus realiste sans etre trop gourmand en puissance
 ![Alt Text](https://media.discordapp.net/attachments/667292144230334465/766205156538449980/screenshot012.png?width=1207&height=679)
 ![Alt Text](https://media.discordapp.net/attachments/667292144230334465/766205508289691688/screenshot014.png?width=1207&height=679)
 ![Alt Text](https://cdn.discordapp.com/attachments/834380339702267914/848520199497449492/perso_new_render.png)
