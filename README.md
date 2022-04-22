@@ -1,4 +1,8 @@
-# MedivalEra
+
+```diff
+- pour des raisons de sécurité le code source de se projet ne sera jamais publié
+```
+# Gameplay
 jeu realiste de survie médival
 
 L'assaut de bases:
@@ -18,16 +22,30 @@ Une autre Baliste mais une grosse qui est contrôlable par un joueur avec un piv
 Il faudrait que les bases soient compliquées à raid. Par exemple une 10aines de boulets de catapulte pour tomber 1 mure.
 Les raids doivent être très coûteux
 
-Rendu:
-les models sont définit par des textures (AO, Refection, albedo, normal map) 
-pour les rendres plus realiste sans etre trop gourmand en puissance
-![Alt Text](https://media.discordapp.net/attachments/667292144230334465/766205156538449980/screenshot012.png?width=1207&height=679)
-![Alt Text](https://media.discordapp.net/attachments/667292144230334465/766205508289691688/screenshot014.png?width=1207&height=679)
-![Alt Text](https://cdn.discordapp.com/attachments/834380339702267914/848520199497449492/perso_new_render.png)
-![Alt Text](https://media.discordapp.net/attachments/734721581191790664/850011709997056030/unknown.png?width=1187&height=670)
-![Alt Text](https://media.discordapp.net/attachments/476100675668017155/777183760504324096/Capture_decran_2020-11-14_153546.jpg?width=1675&height=905)
+```diff
+- (toute image utilisé sont des rendu ou des model du jeu)
+```
 
-img[alt=Alt Text] { width: 200px; }
+
+# Rendu
+
+les models sont définit par des textures (AO, Refection, albedo, normal map) pour les rendres plus realiste sans etre trop gourmand en puissance
+
+cette technique est utilisé sur tout les models du jeu (ce qui demande beaucoup de travail)
+
+![Alt Text](https://media.discordapp.net/attachments/667292144230334465/766205156538449980/screenshot012.png?width=400&height=300)
+![Alt Text](https://media.discordapp.net/attachments/667292144230334465/766205508289691688/screenshot014.png?width=400&height=300)
+
+# Environnement
+
+les saison sont ulisité ce sont juste des shaders sur tout les model de l'environnement qui celon une variable change la texture de ce model
+
+![Alt Text](https://media.discordapp.net/attachments/734721581191790664/850011709997056030/unknown.png?width=800&height=500)
+
+gestion des journnées sont gerer par l'éclairage de la scène
+
+![Alt Text](https://media.discordapp.net/attachments/476100675668017155/777183760504324096/Capture_decran_2020-11-14_153546.jpg?width=800&height=500)
+
 
 
 
